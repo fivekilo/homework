@@ -1,0 +1,15 @@
+E:\project\assignment2\2\bin\Debug\net7.0\2.exe
+E:\project\assignment2\2\bin\Debug\net7.0\2.deps.json
+E:\project\assignment2\2\bin\Debug\net7.0\2.runtimeconfig.json
+E:\project\assignment2\2\bin\Debug\net7.0\2.dll
+E:\project\assignment2\2\bin\Debug\net7.0\2.pdb
+E:\project\assignment2\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+E:\project\assignment2\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\assignment2\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+E:\project\assignment2\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+E:\project\assignment2\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+E:\project\assignment2\2\obj\Debug\net7.0\2.dll
+E:\project\assignment2\2\obj\Debug\net7.0\refint\2.dll
+E:\project\assignment2\2\obj\Debug\net7.0\2.pdb
+E:\project\assignment2\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+E:\project\assignment2\2\obj\Debug\net7.0\ref\2.dll

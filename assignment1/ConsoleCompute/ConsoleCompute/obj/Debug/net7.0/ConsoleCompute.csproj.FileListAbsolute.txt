@@ -1,0 +1,15 @@
+E:\project\ConsoleCompute\ConsoleCompute\bin\Debug\net7.0\ConsoleCompute.exe
+E:\project\ConsoleCompute\ConsoleCompute\bin\Debug\net7.0\ConsoleCompute.deps.json
+E:\project\ConsoleCompute\ConsoleCompute\bin\Debug\net7.0\ConsoleCompute.runtimeconfig.json
+E:\project\ConsoleCompute\ConsoleCompute\bin\Debug\net7.0\ConsoleCompute.dll
+E:\project\ConsoleCompute\ConsoleCompute\bin\Debug\net7.0\ConsoleCompute.pdb
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.csproj.AssemblyReference.cache
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.AssemblyInfoInputs.cache
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.AssemblyInfo.cs
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.csproj.CoreCompileInputs.cache
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.dll
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\refint\ConsoleCompute.dll
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.pdb
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ConsoleCompute.genruntimeconfig.cache
+E:\project\ConsoleCompute\ConsoleCompute\obj\Debug\net7.0\ref\ConsoleCompute.dll
