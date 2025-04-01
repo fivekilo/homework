@@ -55,6 +55,7 @@
     public class OrderService
     {
         private List<Order> orders=new List<Order>();
+        public List<Order> Orders { get {return  orders;} }
         public void AddOrder(Order o)
         {
             if (o == null)
@@ -144,6 +145,7 @@
                 orders.Sort(comparison);
             }
         }
+
     }
     public class Program
     {
@@ -212,6 +214,10 @@
                             Console.WriteLine("请输入客户名");
                             Name = Console.ReadLine();
                             list=os.QuerybyCustomer(Name);
+                            list.ForEach(x => Console.WriteLine(x));
+                            break;
+                        case "5":
+                            list = os.Orders;
                             list.ForEach(x => Console.WriteLine(x));
                             break;
                         case "6":
